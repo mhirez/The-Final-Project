@@ -106,15 +106,6 @@ Below are screenshots showing the execution of each implementation:
 | `Search.java`          | Linear and binary search implementations.   |
 | `Sorting.java`         | Bubble and insertion sort implementations.  |
 
----
-
-## Project Overview Image
-
-Below is the instruction provided for the final project:
-
-![Final Project Instructions](The Final Project.png)
-
----
 
 ## License
 
